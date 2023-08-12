@@ -6,7 +6,7 @@ public class Welecom {
 
 		
 		System.out.println("Welcome to a new Superstar");
-		System.out.println("Welcome to a powerstar");
+		System.out.println("Welcome to a new opportunity");
 		
 	}
 
